@@ -1,0 +1,19 @@
+body {
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.back-transparent {
+    background-color: #00000042;
+    border-radius: 10px !important;
+}
+.ico-font{
+    font-size:50px;
+}
+.checked{
+    color: yellow;
+}
+.form-design{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+}
